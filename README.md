@@ -23,7 +23,7 @@
 <hr>
 <br>
 
-### 담당 파트 : 결제 (Payment)
+### :money_with_wings: 담당 파트 : 결제 (Payment)
 ![두솥도시락 pptx (4)](https://user-images.githubusercontent.com/71998026/111110084-45117b80-859f-11eb-8d74-20f8a23b61d8.png)
 
 ![두솥도시락 pptx (5)](https://user-images.githubusercontent.com/71998026/111110188-6d997580-859f-11eb-9a3d-cda2c0571214.png)
